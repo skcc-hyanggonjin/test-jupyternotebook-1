@@ -1,0 +1,4 @@
+[diff "ipynb"]
+    command = nbdime diff
+[merge "ipynb"]
+    command = nbdime merge-driver
